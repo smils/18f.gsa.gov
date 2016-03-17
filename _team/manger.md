@@ -4,8 +4,8 @@ first_name: Noah
 last_name: Manger
 full_name: Noah Manger
 role: Front End Designer
-city: San Francisco
-state: CA
+city: Portland
+state: OR
 github:
 twitter:
 team: Design
@@ -20,4 +20,3 @@ Before 18F, Noah worked in organizing in politics on projects designed to get pe
 Noah deeply believes in bringing a user-centered, modern approach to building government software.  
 
 “I want to design a fast, intuitive interface to make it easier for all types of users — experienced or novice — to understand the data the FEC provides,” he says.
-

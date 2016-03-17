@@ -11,8 +11,7 @@ twitter: gboone42
 team: Outreach
 project:
 - 18f.gsa.gov
-- Dashboard
-- 18F EDU
+- 18F Learn
 ---
 
 Greg works on the team that builds, codes, and publishes 18F's website.

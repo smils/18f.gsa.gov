@@ -1,0 +1,12 @@
+---
+title: Where we work
+permalink: /team/locations/
+layout: bare
+---
+<h2>Team files</h2>
+{% assign locations = site.team | group_by: "city" %}
+<script type="application/json">{{ locations }}</script>
+<code>{{ locations | size }}</code>
+{% for location in locations %}<code>{{location['name']}} — {{ location['items']  | size}}</code><br>{% endfor %}
+
+<div id="map"></div>
