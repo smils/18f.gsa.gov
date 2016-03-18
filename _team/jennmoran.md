@@ -1,12 +1,12 @@
 ---
-city: 
+city: Washington
 first_name: Jenn
 full_name: Jenn Moran
-github: 
+github:
 last_name: Moran
 name: jennmoran
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: D.C.
+team:
+twitter:
 ---

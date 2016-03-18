@@ -1,5 +1,5 @@
 ---
-city: New York City
+city: New York
 first_name: Lenny
 full_name: Lenny Bogdonoff
 github: rememberlenny

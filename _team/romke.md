@@ -1,12 +1,12 @@
 ---
-city: 
+city: Washington
 first_name: Romke
 full_name: Romke De Haan
-github: 
+github:
 last_name: De Haan
 name: romke
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: D.C.
+team:
+twitter:
 ---

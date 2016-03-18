@@ -2,13 +2,13 @@
 city: New York
 first_name: Alex
 full_name: Alex Bisker
-github: 
+github:
 last_name: Bisker
 name: alex-bisker
-role: 
-state: New York
+role:
+state: NY
 team: Delivery
-twitter: 
+twitter:
 ---
 Before joining 18F, Alex Bisker worked in digital marketing for large entertainment brands. She also produced and directed new theatrical productions.
 

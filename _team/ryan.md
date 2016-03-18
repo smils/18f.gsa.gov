@@ -1,12 +1,12 @@
 ---
-city: 
+city: Chicago
 first_name: Ryan
 full_name: Ryan Thurlwell
-github: 
+github:
 last_name: Thurwell
 name: ryan
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: IL
+team:
+twitter:
 ---

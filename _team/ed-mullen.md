@@ -2,11 +2,11 @@
 city: New York
 first_name: Ed
 full_name: Ed Mullen
-github: 
+github:
 last_name: Mullen
 name: ed-mullen
-role: 
-state: New York
-team: 
-twitter: 
+role:
+state: NY
+team:
+twitter:
 ---

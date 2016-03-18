@@ -1,12 +1,12 @@
 ---
-city: 
+city: Los Angeles
 first_name: Bill
 full_name: Bill Rooney
-github: 
+github:
 last_name: Rooney
 name: bill
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: CA
+team:
+twitter:
 ---

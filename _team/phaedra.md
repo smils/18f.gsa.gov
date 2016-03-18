@@ -1,12 +1,12 @@
 ---
-city: 
+city: Washington
 first_name: Phaedra
 full_name: Phaedra Chrousos
-github: 
+github:
 last_name: Chrousos
 name: phaedra
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: D.C.
+team:
+twitter:
 ---

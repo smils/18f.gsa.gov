@@ -4,13 +4,13 @@ first_name: Aidan
 last_name: Feldman
 full_name: Aidan Feldman
 role: Developer
-city: New York City
+city: New York
 state: NY
 github:
 twitter:
 team: Delivery
 ---
-Aidan's weapons of choice are usually Ruby and JavaScript. He uses those tools to build web applications for federal agencies, work on internal tools and documentation, and promote open source, collaboration, and communication. 
+Aidan's weapons of choice are usually Ruby and JavaScript. He uses those tools to build web applications for federal agencies, work on internal tools and documentation, and promote open source, collaboration, and communication.
 
 "An interesting thing about working in the public sector is that, unlike working at a product company, people generally don't have a choice but to use the thing you build," he says. "Therefore, the goal is not increasing engagement or selling more widgets, but enabling the users to get the information or task done with as little frustration and hassle as possible."
 

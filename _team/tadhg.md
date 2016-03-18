@@ -1,12 +1,12 @@
 ---
-city: 
+city: San Francisco
 first_name: Tadhg
 full_name: Tadhg O'Higgins
-github: 
+github:
 last_name: O'Higgins
 name: tadhg
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: CA
+team:
+twitter:
 ---

@@ -1,12 +1,12 @@
 ---
-city:
+city: San Francisco
 first_name: Rhys
 full_name: Rhys Fureigh
 github: fureigh
 last_name: Fureigh
 name: fureigh
 role:
-state:
+state: CA
 team:
 twitter:
 ---

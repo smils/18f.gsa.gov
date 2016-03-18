@@ -1,12 +1,12 @@
 ---
-city: 
+city: San Francisco
 first_name: Victor
 full_name: Victor Valdiviezo
-github: 
+github:
 last_name: Valdiviezo
 name: valdiviezo
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: CA
+team:
+twitter:
 ---

@@ -1,12 +1,12 @@
 ---
-city: 
+city: Washington
 first_name: Jackie
 full_name: Jackie Xu
-github: 
+github:
 last_name: Xu
 name: jackiexu
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: D.C.
+team:
+twitter:
 ---

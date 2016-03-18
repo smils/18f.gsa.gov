@@ -1,12 +1,12 @@
 ---
-city: 
+city: New York
 first_name: Phoebe
 full_name: Phoebe Espiritu
-github: 
+github:
 last_name: Phoebe
 name: phoebe-espiritu
-role: 
-state: 
+role:
+state: NY
 team: 
-twitter: 
+twitter:
 ---

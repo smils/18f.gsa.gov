@@ -3,10 +3,14 @@ title: Where we work
 permalink: /team/locations/
 layout: bare
 ---
-<h2>Team files</h2>
-{% assign locations = site.team | group_by: "city" %}
-<script type="application/json">{{ locations }}</script>
-<code>{{ locations | size }}</code>
-{% for location in locations %}<code>{{location['name']}} — {{ location['items']  | size}}</code><br>{% endfor %}
-
+{% assign team_by_city = site.team | group_by: "city" | sort: 'name' %}
+{% assign team_by_state = site.team | group_by: "state" %}
+<h2>18F team members work in {{ team_by_city | size }} cities in {{ team_by_state | size }} states.</h2>
+{% for location in team_by_city %}
+<h3>{{location['items'][0]['city']}}, {{ location['items'][0]['state'] }} — {{ location['items']  | size}}</h3>
+<ul>{% for i in location['items'] %}
+  <li>{{ i['full_name'] }}</li>
+{% endfor %}</ul>
+{% endfor %}
+<script type="application/json">{{ team_by_city }}</script>
 <div id="map"></div>

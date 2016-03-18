@@ -1,12 +1,12 @@
 ---
-city: 
+city: Philadelphia
 first_name: Angela
 full_name: Angela Colter
-github: 
+github:
 last_name: Colter
 name: angela-colter
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: PA
+team:
+twitter:
 ---

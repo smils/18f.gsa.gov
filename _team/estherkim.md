@@ -1,12 +1,12 @@
 ---
-city: 
+city: San Francisco
 first_name: Esther
 full_name: Esther Kim
-github: 
+github:
 last_name: Kim
 name: estherkim
-role: 
-state: 
-team: 
-twitter: 
+role:
+state: CA
+team:
+twitter:
 ---
