@@ -10,7 +10,7 @@ state: IL
 team:
 twitter:
 ---
-I joined 18F because I wanted to feel that my work had a higher
+“I joined 18F because I wanted to feel that my work had a higher
 purpose. I have lots of experience working in the design and tech world,
 and have had the opportunity to recruit people to build large commerce
 sites and develop marketing campaigns to increase profits for products,
@@ -23,4 +23,4 @@ design, and implementing helpful and sustainable technology to develop
 tools and systems that allow for the American people to have successful
 interactions with the United States government. What better way to make
 an impact than that? I was totally excited and thrilled at the prospect
-of joining 18F.
+of joining 18F.”
