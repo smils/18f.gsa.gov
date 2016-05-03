@@ -1,0 +1,57 @@
+name: writing-lab-guide
+
+child:
+
+full_name: Writing lab guide
+
+description: The Writing Lab is a virtual writing center where anyone at 18F can get personalized writing and editing help from members of the content and outreach teams. All of the Lab members are skilled content creators, hailing from backgrounds in journalism, creative writing, instructional design, technical writing, and more. We also maintain a guide to the writing lab for submitters and editors.
+
+impact: Helps 18F write clear, accessible, and user-centric copy for all projects and tools
+
+tagline: We have a virtual writing center where anyone at 18F can get personalized writing and editing help from members of the content and outreach teams
+
+github: https://github.com/18F/writing-lab-guide
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

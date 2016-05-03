@@ -1,0 +1,57 @@
+name: partnership-playbook
+
+child:
+
+full_name: Partnership Playbook
+
+description: This guide will help you, as an agency, understand what it’s like to work with the 18F Delivery team. You'll learn what to expect and get a sense of the challenges you may face when working with a digital service team, which will likely be a significantly different experience than working with a contractor.
+
+impact: A guide to help agencies understand what it’s like to work with the 18F Delivery team.
+
+tagline: A guide to help agencies understand what it’s like to work with the 18F Delivery team.
+
+github: https://github.com/18F/partnership-playbook
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

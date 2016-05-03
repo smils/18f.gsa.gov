@@ -1,0 +1,57 @@
+name: peacecorps-site
+
+child: false
+
+full_name: Peace Corps "Let Girls Learn" website
+
+description: 18F worked with the Peace Corps to developed a donations platform and a set of landing pages for the Peace Corps campaign Let Girls Learn.
+
+impact: The new donation platform makes it easier for donors to find and donate to the Peace Corps, which has led to more donations for the organization.
+
+tagline: The Peace Corps received more donations after we helped them with a new donations platform.
+
+github: https://github.com/18F/peacecorps-site
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

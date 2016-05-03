@@ -1,0 +1,57 @@
+name: aws-broker
+
+child: false
+
+full_name: AWS Broker
+
+description: A tool to automatically provision database instances for applications in Cloud Foundry.
+
+impact: The repetitive task of admins making databases is gone. Now, developers have more control
+
+tagline:
+
+github: https://github.com/18F/aws-broker
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

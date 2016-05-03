@@ -1,0 +1,58 @@
+name: rdbms-subsetter
+
+child: false
+
+full_name: rdbms-subsetter
+
+description: Full production datasets are too unwieldy to duplicate to the test and development environments. Projects are typically tested against small hand-written test databases instead, but those simple constructs can't duplicate the quirks and complexities of the production data set — and the most subtle application bugs will only be revealed when applied to those quirks. rdbms-subsetter solves that issue by generating a random sample of rows from a relational database that preserve referential integrity. So long as constraints are defined, all parent rows will exist for child rows.
+
+impact: Improves development and testing quality by creating high fidelity simulations of the production environment.
+
+
+tagline: We designed an easy way to create test or development databases from production.
+
+github: https://github.com/18F/rdbms-subsetter
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

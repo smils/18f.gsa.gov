@@ -1,0 +1,57 @@
+name: open-source-guide
+
+child:
+
+full_name: Open Source style guide
+
+description: Our open source style guide helps people document code repositories so that they're easy to use and understand. In each section, we outline our strategies for making sure that our code repositories are clear, accessible, and user-friendly.
+
+impact: Our open source style guide ensures documentation is clear for both internal and external audiences
+
+tagline: Our open source style guide ensures documentation is clear for both internal and external audiences
+
+github: https://github.com/18F/open-source-guide
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

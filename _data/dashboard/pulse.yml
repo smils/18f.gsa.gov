@@ -1,0 +1,57 @@
+name: pulse
+
+child:
+
+full_name: Pulse
+
+description: 18F worked with the Office of Government-wide Policy to develop a lightweight dashboard showing at-a-glance metrics across all federal web domains. The initial iteration shows whether federal executive branch domains are participating in the Digital Analytics Program and whether federal domains have deployed the HTTPS protocol.
+
+impact: Gives the public an easy way to measure how (and how well) federal websites are adopting best practices.
+
+tagline: Pulse measures how (and how well) federal websites are adapting to best practices for analytics and security.
+
+github: https://github.com/18F/pulse
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

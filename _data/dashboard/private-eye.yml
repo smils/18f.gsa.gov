@@ -1,0 +1,57 @@
+name: private-eye
+
+child: false
+
+full_name: Private Eye
+
+description: Private Eye is a Javascript plugin that warn users about links to private pages. The plugin places a lock icon next to any links with any URLs specified as private, and gives a warning message to users. 18F uses the code on public sites that contain links to internal content like private GitHub repos or Google Docs.
+
+impact: An easy way to publish one version of content without the need to redact any information.
+
+tagline: We created a Javascript plugin that warns users about links to private pages.
+
+github: https://github.com/18F/private-eye
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:
