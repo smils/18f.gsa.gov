@@ -1,16 +1,16 @@
-name: cg-quotas-db
+name: hubot-cf-notifications
 
 child: true
 
-full_name: Cloud.gov quotas data
+full_name: Hubot Cloud Foundry notifications
 
-description: A lightweight Flask app for storing Cloud Foundry quotas data
+description: Adds a number of helpful [Cloud Foundry](http://cloudfoundry.org/)-related status commands to [Hubot](http://hubot.github.com/)
 
 impact:
 
-tagline:
+tagline: Easily deploy notifications of applications within a Slack chatroom.
 
-github: https://github.com/18F/cg-quotas-db
+github: https://github.com/18F/hubot-cf-notifications
 
 image:
 

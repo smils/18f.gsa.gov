@@ -1,0 +1,58 @@
+name: go_script
+
+child: false
+
+full_name: The `./go` script
+
+description: A ./go script aims to abstract away all of the steps needed to develop (and sometimes deploy) a software project. It is a replacement for READMEs and other documents that may become out-of-date, and when maintained properly, should provide a cohesive and discoverable interface for common project tasks. This gem abstracts common functionality used in the Ruby-based ./go scripts of several 18F projects, and provides a ./go script generator for new projects.
+
+impact: Abstracts away all of the steps needed to develop (and sometimes deploy) a software project, saving developers time.
+
+
+tagline: Provides a cohesive and discoverable interface for common project tasks.
+
+github: https://github.com/18F/go_script
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

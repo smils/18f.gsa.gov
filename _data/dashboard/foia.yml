@@ -1,0 +1,66 @@
+name: foia
+
+child: false
+
+full_name: FOIA Modernization
+
+description: 18F implemented part of the government's National Action Plan related to the Freedom of Information Act by creating a new tool that gives people the ability to easily search and find the correct agency or office to make a FOIA request.
+
+impact: We helped make it easier to send Freedom of Information Act requests to the right agency or office.
+
+tagline: Improves one of the more difficult aspects of filing a FOIA request: Finding the right agency or office.
+
+github: https://github.com/18F/foia
+
+image:
+
+audience: learn and use
+
+owner_type: business-unit
+
+business_unit: products-and-platforms
+
+tags: open government, open data
+
+stage: live
+
+status: not-active
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+- Department of Justice
+- FOIA agency task force
+
+contact:
+-
+
+team:
+- jackie
+- knandelwal
+- majma
+- eric
+- gramirez
+- jtag
+- victor
+- erica
+
+type:
+
+parent:
+
+links:
+- url: https://open.foia.gov/
+  text: openFOIA
+- url: https://github.com/18F/foia-hub/
+  text: A consolidated FOIA request hub.
+
+
+stack:
+-
+
+users:
+- id:
+  user:

@@ -1,0 +1,59 @@
+name: fisma-ready
+
+child: false
+
+full_name: FISMA Ready
+
+description: A collection of community projects to help the open source community comply with FISMA
+
+impact: Heavily reuses pre-approved components, saving time and money.
+
+tagline: Makes the FISMA process more efficient and effective, while radically reducing the time necessary to get an ATO.
+
+github: https://github.com/fisma-ready
+
+image:
+
+audience: partner
+
+owner_type: chapter
+
+business_unit:
+
+tags: tools you can use, open source
+
+stage: live
+
+status: active
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+- afeld
+- konklone
+- ozzyjohnson
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

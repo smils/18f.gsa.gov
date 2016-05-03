@@ -1,0 +1,62 @@
+name: federalist
+
+child:
+
+full_name: Federalist
+
+description: The Federalist platform is a suite of tools designed to make it faster and cheaper for government agencies to build websites that are secure, responsive, and accessible. We developed Federalist for two audiences: federal developers who need a platform for reliable, quick hosting of static sites, and federal groups that may not have a developer on staff but need secure, accessible, and responsive websites to get their content out to the public.
+
+impact: Lets agencies quickly launch secure, accessible, and responsive websites that can easily handle large spikes in traffic.
+
+tagline: We're making it easy for agencies to quickly launch secure, accessible, and responsive websites.
+
+github: https://github.com/18F/federalist
+
+image:
+
+audience: partner
+
+owner_type: business-unit
+
+business_unit: products-and-platforms
+
+tags: platforms
+
+stage: live
+
+status: active
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+- url: https://github.com/18F/federalist/issues/new
+  text: File an issue on GitHub
+
+team:
+- jeremiak
+- dhcole
+- adborden
+
+
+type: app
+
+parent:
+
+links:
+- url: https://chat.18f.gov/?channel=federalist-public
+  text: Public Slack Room: Federalist
+  url: https://federalist.18f.gov/
+  text: Federalist homepage
+
+
+stack:
+-
+
+users:
+- id:
+  user:

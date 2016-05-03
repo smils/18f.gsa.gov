@@ -1,0 +1,55 @@
+name: hubot-slack-github-issues
+
+child: false
+
+full_name: Hubot Slack GitHub issues
+
+description: When a Slack chat message receives a specific emoji reaction, this Hubot plugin creates a GitHub issue with a link to that message. This plugin is for teams who use Slack to communicate and GitHub to track issues. It provides an easy way to file an issue (just add a specific emoji to a message), which helps team members quickly document or act upon important parts of conversations.
+
+impact: Makes it much easier for teammates to document important conversations without having to leave their chat program.
+
+tagline: Provides an easy way for teammates to file GitHub issues through emoji use in Slack.
+
+github: https://github.com/18F/hubot-slack-github-issues
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage: live
+
+status: active
+
+testable:
+
+licenses: Public Domain (CC0)
+
+
+contact:
+-
+
+team:
+
+
+type: app
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

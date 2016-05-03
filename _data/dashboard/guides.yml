@@ -1,0 +1,57 @@
+name: guides
+
+child: false
+
+full_name: 18F Guides
+
+description: Our guides contain best practices for the 18F team on topics related to accessibility, content, product management, agile practices, and other useful subjects. You can see a full list of them here. Not only is the source code and full text for all of the guides published on GitHub, but most of them are based on the DOCter template created by the Consumer Financial Protection Bureau (CFPB).
+
+impact: Shares best practices, resources and knowledge with the public.
+
+tagline: Read our guides to see best practices in agile, accessbility, content, open source, and more.
+
+github: https://github.com/18F/guides
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

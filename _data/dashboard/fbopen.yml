@@ -1,0 +1,63 @@
+name: fbopen
+
+child: false
+
+full_name: FBOpen
+
+description: FBOpen helps small businesses search for opportunities to work with the U.S. government through an open API server, data import tools, and sample applications.
+
+impact: Makes finding opportunities to work with the U.S. government easier and more effective.
+
+tagline: We made it easier to find opportunities to work with the U.S. government.
+
+github: https://github.com/18F/fbopen
+
+image:
+
+audience: learn and use
+
+owner_type: business-unit
+
+business_unit: products-and-platforms
+
+tags: apis, tools you can use, agency work
+
+stage: live
+
+status: active
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+- GSA CIO
+- Integrated Award Environment team
+- api.data.gov team
+
+contact:
+-
+
+team:
+- arowla
+- aaronsnow
+- annalee
+- kaitlin
+- noahkunin
+
+type: app
+
+parent:
+
+links:
+- url: https://fbopen.gsa.gov/
+  text: FBOpen
+  url: https://pages.18f.gov/fbopen/
+  text: FBOpen API documentation
+
+stack:
+-
+
+users:
+- id:
+  user:

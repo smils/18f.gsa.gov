@@ -1,0 +1,57 @@
+name: email-to-github-issues
+
+child: false
+
+full_name: Email to GitHub issues
+
+description: A tool we developed that provides a Mandrill Inbound email webhook to open GitHub issues. It works well when working with users who may be more comfortable with email instead of GitHub.
+
+impact: Ensures users can leave feedback on GitHub repositories without learning a new, complex tool.
+
+tagline: A tool that allows people who may be more comfortable using email instead of GitHub to give feedback.
+
+github: https://github.com/18F/email-to-github-issues
+
+image:
+
+audience: learn and use
+
+owner_type: chapter
+
+business_unit:
+
+tags: tools you can use
+
+stage: live
+
+status: not-active
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+- konklone
+
+type: app
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:
