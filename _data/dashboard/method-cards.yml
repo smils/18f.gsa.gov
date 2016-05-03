@@ -1,0 +1,57 @@
+name: method-cards
+
+child: false
+
+full_name:
+
+description: We released a deck of method cards that help research and design teams communicate a shared vocabulary across teams and agencies.
+
+impact: The cards we designed help teams learn new research and design methods and help government agencies do quick, low-cost user research taht respects federal regulations.
+
+tagline: Learn new research and design methods from our downloadable deck of Method Cards.
+
+github: https://github.com/18F/methods
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

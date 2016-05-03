@@ -1,0 +1,57 @@
+name: my-usa
+
+child: false
+
+full_name: myUSA
+
+description: The General Services Administration and several other agencies wanted a way to give the public a predictable, reliable way to sign in and manage their accounts on government websites. MyUSA — a digital platform that allows Americans to register, sign in, and manage ongoing transactions with the U.S. federal government —  makes government resources easier to access, and government tasks and processes easier to keep track of.
+
+impact: A single, trusted, predictable experience for signing into government services, making it easier to access government websites and keep track of tasks and processes.
+
+tagline: We're making it easier for people to sign into and manage accounts on federal government websites.
+
+github: https://github.com/18F/myusa
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

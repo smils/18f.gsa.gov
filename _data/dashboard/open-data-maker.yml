@@ -1,0 +1,57 @@
+name: open-data-maker
+
+child:
+
+full_name: Open data maker
+
+description: Open Data Maker makes it easy to turn a lot of potentially large csv files into open data via an API and then gives people the ability to download smaller csv files with a subset of the data.
+
+impact: Reduces the size of files which makes it easier for people to download and surface data.
+
+tagline: We created a way to turn lots of large csv files into open data via an API and then allow people to download smaller csv files.
+
+github: https://github.com/18F/open-data-maker
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

@@ -1,0 +1,57 @@
+name: my-ra
+
+child: false
+
+full_name: myRA
+
+description: 18F worked with the Treasury Department on an early iteration of employer and individual landing pages design for Treasury’s My Retirement Account program. The project was handed off to the partner agency in June 2015.
+
+impact: Millions of Americans do not have access to an employer-sponsored retirement plan, which includes more than 50% of full-time and 75% of part-time workers. The myRA site provides clear information about a retirement program available to everybody.
+
+tagline: We helped the Treasury Department design an early iteration of a landing page for a retirement program.
+
+github: https://github.com/18F/myra
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

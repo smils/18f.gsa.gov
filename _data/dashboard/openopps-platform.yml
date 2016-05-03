@@ -1,0 +1,57 @@
+name: openopps-platform
+
+child: false
+
+full_name: Open Opportunities
+
+description: The Open Opportunities platform fosters collaboration and skill development within the federal government. Federal employees post tasks they need assistance with and other federal employees can then sign up to complete those tasks, meet colleagues from different agencies, and develop and enhance their own skill sets.
+
+impact: Over 475 tasks have been completed, and employees have said that they value the development opportunities and connections they make while completing tasks.
+
+tagline: We built a platform that fosters collaboration and skill development in the federal government.
+
+github: https://github.com/18F/openopps-platform
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

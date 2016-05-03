@@ -1,0 +1,57 @@
+name: dolores-landingham-bot
+
+child: false
+
+full_name: Dolores Landingham Slackbot
+
+description: Mrs. Landingham - named after the West Wing character - is a Slack bot that sends scheduled messages to new hires so that they don’t experience information overload during their first week. The bot drips out all kinds of information to new hires, like how to fill out forms, participate in discussions, and learn what certain terms mean.
+
+impact: Makes it easy for new employees to learn about 18F's culture and best practices without being overwhelmed.
+
+tagline: Our onboarding bot makes it easy for new employees to learn about 18F without being overwhelmed.
+
+github: https://github.com/18F/dolores-landingham-bot
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:
