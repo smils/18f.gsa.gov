@@ -1,0 +1,57 @@
+name: jekyll-get
+
+child:
+
+full_name: Jekyll get
+
+description: A Jekyll plugin to download data from external JSON sources to use in generating a site. The plugin reads settings from the _config.yml file. Add settings as attributes or an array of attributes for multiple files.
+
+impact:
+
+tagline: Use data from external JSON sources using this Jekyll plug-in.
+
+github: https://github.com/18F/jekyll-get
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

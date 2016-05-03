@@ -1,0 +1,57 @@
+name: jekyll-pages-api-search
+
+child:
+
+full_name: Jekyll pages API search
+
+description: This Ruby gem adds a lunr.js search index to a Jekyll-based web site to facilitate adding client-side search features
+
+impact:
+
+tagline: This jekyll plug-in makes it easy to search a website.
+
+github: https://github.com/18F/jekyll_pages_api_search
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

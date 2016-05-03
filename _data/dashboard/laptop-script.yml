@@ -1,0 +1,57 @@
+name: laptop-script
+
+child:
+
+full_name: Laptop script
+
+description: We made a shell script which turns a Mac into an awesome web development machine. The script installs, upgrades, or skips packages based on what is already installed on the machine.
+
+impact:
+
+tagline: Set up your computer for web development with our Laptop script.
+
+github: https://github.com/18F/laptop
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:
