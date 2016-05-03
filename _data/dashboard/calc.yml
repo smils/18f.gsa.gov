@@ -14,7 +14,7 @@ github: https://github.com/18F/calc
 
 image:
 
-audience: agency partners, state and local agencies
+audience: partner
 
 owner_type: business-unit
 
@@ -34,17 +34,9 @@ partners:
 - General Services Administration
 
 contact:
--
+- url: https://github.com/18F/calc/issues
+  text: CALC GitHub issues
 
-team:
-- github: shawnbot
-- github: maya
-- github: brethauer
-- github: xtine
-- github: kaitlin
-- github: arowla
-- github: jmcarp
-- github: theresaanna
 
 type: app
 

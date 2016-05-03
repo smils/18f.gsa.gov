@@ -14,7 +14,7 @@ github: https://github.com/18F/accordion
 
 image:
 
-audience: open source community
+audience: learn and use 
 
 owner_type: chapter
 
@@ -34,13 +34,9 @@ licenses: Public Domain (CC0)
 
 partners:
 
-
 contact:
-- noah.manger@gsa.gov
-
-team:
-- noahmanger
-- jmcarp
+- url: https://github.com/18F/accordion/issues
+  name: Accessibility GitHub issues
 
 type: app
 

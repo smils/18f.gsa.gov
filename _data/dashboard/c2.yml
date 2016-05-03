@@ -14,7 +14,7 @@ github: https://github.com/18F/C2
 
 image:
 
-audience: agency partners
+audience: partner
 
 owner_type: business-unit
 
@@ -41,20 +41,6 @@ contact:
   text: C2 support
 - url: https://github.com/18F/C2/issues
   text: C2 GitHub issues
-
-  team:
-  - github: afeld
-    role: developer
-  - github: annalee
-    role: developer
-  - github: phirefly
-    role: lead
-  - github: pkarman
-    role: developer
-  - github: yozlet
-    role: developer
-  - github: jessieay
-    role: developer
 
 type: app
 

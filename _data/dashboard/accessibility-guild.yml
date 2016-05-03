@@ -14,7 +14,7 @@ github: https://github.com/18F/accessibility
 
 image:
 
-audience: public, agency partners, state and local agencies
+audience: learn and use
 
 
 # What kind of team owns the repository? (required)
@@ -51,12 +51,8 @@ partners:
 # - url: URL for the link
 #   text: Anchor text for the link
 contact:
-- richard.bristow@gsa.gov
-
-# Who are the team members on your project? Specify GitHub usernames.
-
-team:
-- nickbristow
+- url: https://github.com/18F/accessibility/issues
+  name: Accessibility GitHub issues
 
 # What kind of content is contained in the project repository?
 # values: app, docs, policy

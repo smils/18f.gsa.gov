@@ -14,7 +14,6 @@ github: https://github.com/18F/cg-cron
 
 image:
 
-audience: agency partners
 
 owner_type: business-unit
 
@@ -33,14 +32,6 @@ licenses: Public Domain (CC0)
 
 contact:
 - cloud-gov-support@gsa.gov
-
-team:
-- mogul
-- msecret
-- dlapiduz
-- jcscottiii
-- maya
-- afeld
 
 type: app
 

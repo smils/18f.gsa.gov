@@ -14,7 +14,7 @@ github: https://github.com/18F/analytics-reporter
 
 image:
 
-audience: agency partners, state and local agencies
+audience:
 
 owner_type: business-line
 
@@ -36,11 +36,9 @@ partners:
 - White House
 
 contact:
-- dap@gsa.gov
+- url: https://github.com/18F/analytics-reporter/issues
+  name: Analytics Reporter GitHub issues
 
-team:
-- Eric
-- Geramirez
 
 type: app
 

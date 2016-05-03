@@ -14,7 +14,7 @@ github: https://github.com/18F/openFEC
 
 image:
 
-audience: public, agency partners, potential hire
+audience: partner 
 
 owner_type: business-unit
 
@@ -34,19 +34,9 @@ partners:
 - Federal Election Commission
 
 contact:
-- url: mailto:leah.bannon@gsa.gov
-  text: Leah Bannon
+- url: https://github.com/18F/openFEC/issues
+  name: openFEC GitHub issues
 
-team:
-- github: arowla
-- github: emileighoutlaw
-- github: jenniferthibault
-- github: jmcarp
-- github: LeahBannon
-  role: product manager
-- github: LindsayYoung
-- github: noahmanger
-- github: onezerojeremy
 
 type: app
 

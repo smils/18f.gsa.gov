@@ -14,7 +14,7 @@ github: https://github.com/18F/bronto
 
 image:
 
-audience: open source community
+audience: learn and use
 
 owner_type: chapter
 
@@ -34,7 +34,8 @@ partners:
 -
 
 contact:
--
+- url: https://github.com/18F/bronto/issues
+  name: Bronto GitHub issues
 
 team:
 -
