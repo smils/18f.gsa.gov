@@ -1,0 +1,57 @@
+name: slides
+
+child: false
+
+full_name: Slides
+
+description: Slides makes it easy to create a web-based presentation using Markdown and git.
+
+impact: Provides transparency into the work we do and makes it easier to learn what presentations have occurred.
+
+tagline: Make and archive a presentation easily.
+
+github: https://github.com/18F/slides
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

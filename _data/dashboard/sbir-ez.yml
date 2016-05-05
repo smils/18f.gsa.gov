@@ -1,0 +1,57 @@
+name: sbir-ez
+
+child:
+
+full_name: SBIR-EZ
+
+description: In 2014, we worked with the Air Force on an application built on the FBOpen API to simplify, streamline, and unify the Small Business Innovation Research application process.
+
+impact: More applications from more businesses means a more competitive, open pool or potential awardees.
+
+tagline: We worked with the Air Force to simplfy and streamline an application process for businesses.
+
+github: https://github.com/18F/afsbirez
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:

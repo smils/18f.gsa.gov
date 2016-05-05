@@ -1,0 +1,59 @@
+name: scrapebox
+
+child: false
+
+full_name: Scrapebox
+
+description: A portable image to start a development environment for performing web scraping.  You can use this to develop scraping scripts for a website using the Scrapebox virtual environment. One a scraping script is developed, you would push the script into production to run via chron job or scraping as a service like Scrapinghub.
+
+For government, scraping is important because many sites have no or very poor mechanisms for accessing the underlying data of a webpage without extracting it from the page's source code.
+
+impact: Lets users easily access the the underlying data of a webpage.
+
+tagline: This project is designed for anyone who need to get access to a website's data through scraping.
+
+github: https://github.com/18F/scrapebox
+
+image:
+
+audience:
+
+owner_type:
+
+business_unit:
+
+tags:
+
+stage:
+
+status:
+
+testable:
+
+licenses: Public Domain (CC0)
+
+partners:
+-
+
+contact:
+-
+
+team:
+-
+
+type:
+
+parent:
+
+links:
+- url:
+  text:
+  category:
+
+
+stack:
+-
+
+users:
+- id:
+  user:
