@@ -1,0 +1,146 @@
+---
+layout: new_default
+permalink: /new/home/1/
+---
+
+<div class="bg-navy white">
+  <nav class="p2 clearfix center">
+    <div class="sm-col">
+      <a href="/" class="btn p0 mb2">
+        <img src="{{ site.baseurl }}/assets/images/new/logo-18f-teal.svg" alt="18f-logo" class="align-middle" width="70">
+      </a>
+    </div>
+    <div class="sm-col-right">
+      <a href="/" class="h5 btn">
+        <span class="sm-show">What we deliver</span>
+        <span class="sm-hide">Deliver</span>
+      </a>
+      <a href="/" class="h5 btn">Hire 18F</a>
+      <a href="/" class="h5 btn">Join 18F</a>
+      <a href="/" class="h5 btn">Blog</a>
+    </div>
+  </nav>
+  <div class="mt4 px3 py4">
+    <div class="clearfix mxn3">
+      <div class="sm-col sm-col-6 md-col-5 px3">
+        <h1 class="h0 h0-responsive mt0 teal">Delivery is the strategy.</h1>
+      </div>
+      <div class="sm-col sm-col-6 md-col-7 px3">
+        <div class="h3 bold">
+          18F is an office inside the General Services Administration that helps other federal agencies build, buy, and share efficient and easy-to-use digital services. We're transforming government from the inside out, creating cultural change by working with teams inside agencies who want to create great services for the public.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="p3 bg-teal navy">
+  <h2 class="m0">
+    <a href="/" class="h3 btn p1 right">
+      <span class="sm-show-inline">Learn more about us</span>
+      <svg class="svg-ico" viewBox="0 0 32 32">
+        <path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
+      </svg>
+    </a>
+    What we deliver
+  </h2>
+</div>
+<div class="flex flex-wrap">
+  <div class="flex col-6 sm-col-5th border-box border center">
+    <div class="p2">
+      <img src="{{ site.baseurl }}/assets/images/new/home1/ico-1.svg" alt="icon 1" width="125">
+      <h4>Custom products to solve your problems</h4>
+    </div>
+  </div>
+  <div class="flex col-6 sm-col-5th border-box border center">
+    <div class="p2">
+      <img src="{{ site.baseurl }}/assets/images/new/home1/ico-2.svg" alt="icon 2" width="125">
+      <h4>Innovative ways to buy technology</h4>
+    </div>
+  </div>
+  <div class="flex col-6 sm-col-5th border-box border center">
+    <div class="p2">
+      <img src="{{ site.baseurl }}/assets/images/new/home1/ico-3.svg" alt="icon 3" width="125">
+      <h4>Platforms built for government</h4>
+    </div>
+  </div>
+  <div class="flex col-6 sm-col-5th border-box border center">
+    <div class="p2">
+      <img src="{{ site.baseurl }}/assets/images/new/home1/ico-4.svg" alt="icon 4" width="125">
+      <h4>A path to becoming a digitally-powered organization</h4>
+    </div>
+  </div>
+  <div class="flex col-6 sm-col-5th border-box border center">
+    <div class="p2">
+      <img src="{{ site.baseurl }}/assets/images/new/home1/ico-5.svg" alt="icon 5" width="125">
+      <h4>Modern digital service techniques</h4>
+    </div>
+  </div>
+  <div class="flex col-6 sm-col-5th border-box border sm-hide"></div>
+</div>
+
+<div class="p3 bg-teal navy">
+  <h2 class="m0">
+    <a href="/" class="h3 btn p1 right">
+      <span class="sm-show-inline">View all articles</span>
+      <svg class="svg-ico" viewBox="0 0 32 32">
+        <path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
+      </svg>
+    </a>
+    Latest from the blog
+  </h2>
+</div>
+<div class="flex flex-wrap">
+{% for post in site.posts limit:3 %}
+  <div class="flex col-12 sm-col-4 border-box border">
+    <div class="p3 md-p3 mb2">
+      <h4 class="gray">{{ post.date | date_to_long_string }}</h4>
+      <h2 class="navy">{{ post.title }}</h2>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+<footer class="bg-darken-1 p3">
+  <div class="clearfix mxn2">
+    <div class="col col-12 md-col-8 px2">
+      <div class="clearfix mxn2">
+        <div class="col col-12 sm-col-12 md-col-3 px2 mb3">
+          <img src="{{ site.baseurl }}/assets/images/new/logo-18f-black.svg" alt="18f-logo" class="align-middle" width="50">
+          <img src="{{ site.baseurl }}/assets/images/new/logo-gsa.png" alt="gsa-logo" class="align-middle" width="50">
+        </div>
+        <div class="col col-12 sm-col-4 md-col-3 px2">
+          <ul class="list-reset">
+            <li><a href="/" class="h5 bold mb1 block black">What we deliver</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Hire 18F</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Join 18F</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Blog</a></li>
+          </ul>
+        </div>
+        <div class="col col-12 sm-col-4 md-col-3 px2">
+          <ul class="list-reset">
+            <li><a href="/" class="h5 bold mb1 block black">Open source</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Standards & policies</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Developer program</a></li>
+          </ul>
+        </div>
+        <div class="col col-12 sm-col-4 md-col-3 px2">
+          <ul class="list-reset">
+            <li><a href="/" class="h5 bold mb1 block black">Press</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">@18F</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">18F@gsa.gov</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col col-12 md-col-4 px2 mt2 md-mt0">
+      <h4 class="mt0">Newsletter</h4>
+      <p>Receive updates about our work and news from the civic tech community</p>
+      <form>
+        <label>Your email</label>
+        <input type="text" class="block col-12 mb1 field">
+        <button type="submit" class="btn btn-primary bg-navy">Sign up</button>
+      </form>
+    </div>
+  </div>
+</footer>

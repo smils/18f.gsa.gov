@@ -1,0 +1,129 @@
+---
+layout: new_default
+permalink: /new/home/4/
+---
+
+<nav class="clearfix bg-white black center">
+  <div class="sm-col caps">
+    <a href="/" class="btn p1 sm-p2">18F</a>
+  </div>
+  <div class="sm-col-right caps">
+    <a href="/" class="h6 btn p1 sm-p2"><span class="sm-show-inline">What we</span> deliver</a>
+    <a href="/" class="h6 btn p1 sm-p2">Hire 18F</a>
+    <a href="/" class="h6 btn p1 sm-p2">Join 18F</a>
+    <a href="/" class="h6 btn p1 sm-p2">Blog</a>
+  </div>
+</nav>
+
+<div class="px2 py4 bg-teal white">
+  <h1 class="h0 h00-responsive mt4 mb4 navy">Delivery is the strategy.</h1>
+</div>
+
+<div class="p3 navy">
+  <h2>About us</h2>
+  <div class="clearfix mxn2">
+    <div class="sm-col sm-col-6 px2">
+      <p class="h3">Bacon ipsum dolor sit amet chuck prosciutto landjaeger ham hock filet mignon shoulder hamburger pig venison. Bacon ipsum dolor sit amet chuck prosciutto landjaeger ham hock filet mignon shoulder hamburger pig venison.</p>
+    </div>
+    <div class="sm-col sm-col-6 px2">
+      <p class="h3">Bacon ipsum dolor sit amet chuck prosciutto landjaeger ham hock filet mignon shoulder hamburger pig venison. Bacon ipsum dolor sit amet chuck prosciutto landjaeger ham hock filet mignon shoulder hamburger pig venison.</p>
+    </div>
+  </div>
+</div>
+
+<div class="p3 bg-navy teal">
+  <h2>What we deliver</h2>
+  <div class="flex flex-wrap">
+    <div class="flex col-6 sm-col-5th border-box center">
+      <div class="p2">
+        <img src="{{ site.baseurl }}/assets/images/new/home4/ico-1.svg" alt="icon 1" width="125">
+        <div class="h3 light white">Custom products to solve your problems</div>
+      </div>
+    </div>
+    <div class="flex col-6 sm-col-5th border-box center">
+      <div class="p2">
+        <img src="{{ site.baseurl }}/assets/images/new/home4/ico-2.svg" alt="icon 2" width="125">
+        <div class="h3 light white">Innovative ways to buy technology</div>
+      </div>
+    </div>
+    <div class="flex col-6 sm-col-5th border-box center">
+      <div class="p2">
+        <img src="{{ site.baseurl }}/assets/images/new/home4/ico-3.svg" alt="icon 3" width="125">
+        <div class="h3 light white">Platforms built for government</div>
+      </div>
+    </div>
+    <div class="flex col-6 sm-col-5th border-box center">
+      <div class="p2">
+        <img src="{{ site.baseurl }}/assets/images/new/home4/ico-4.svg" alt="icon 4" width="125">
+        <div class="h3 light white">A path to becoming a digitally-powered organization</div>
+      </div>
+    </div>
+    <div class="flex col-6 sm-col-5th border-box center">
+      <div class="p2">
+        <img src="{{ site.baseurl }}/assets/images/new/home4/ico-5.svg" alt="icon 5" width="125">
+        <div class="h3 light white">Modern digital service techniques</div>
+      </div>
+    </div>
+    <div class="flex col-6 sm-col-5th border-box sm-hide"></div>
+  </div>
+</div>
+
+<div class="p3 bg-white navy">
+  <h2>Ideas</h2>
+  <div class="flex flex-wrap mxn3">
+  {% for post in site.posts limit:3 %}
+    <div class="flex col-12 sm-col-4 border-box p3">
+      <div class="p2 border-top border-thick border-teal">
+        <h4 class="gray">{{ post.date | date_to_long_string }}</h4>
+        <h2 class="navy">{{ post.title }}</h2>
+        <p>{{ post.excerpt | strip_html }}</p>
+        <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+</div>
+
+<footer class="bg-darken-1 p3">
+  <div class="clearfix mxn2">
+    <div class="col col-12 md-col-8 px2">
+      <div class="clearfix mxn2">
+        <div class="col col-12 sm-col-12 md-col-3 px2 mb3">
+          <img src="{{ site.baseurl }}/assets/images/new/logo-18f-black.svg" alt="18f-logo" class="align-middle" width="50">
+          <img src="{{ site.baseurl }}/assets/images/new/logo-gsa.png" alt="gsa-logo" class="align-middle" width="50">
+        </div>
+        <div class="col col-12 sm-col-4 md-col-3 px2">
+          <ul class="list-reset">
+            <li><a href="/" class="h5 bold mb1 block black">What we deliver</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Hire 18F</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Join 18F</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Blog</a></li>
+          </ul>
+        </div>
+        <div class="col col-12 sm-col-4 md-col-3 px2">
+          <ul class="list-reset">
+            <li><a href="/" class="h5 bold mb1 block black">Open source</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Standards & policies</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">Developer program</a></li>
+          </ul>
+        </div>
+        <div class="col col-12 sm-col-4 md-col-3 px2">
+          <ul class="list-reset">
+            <li><a href="/" class="h5 bold mb1 block black">Press</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">@18F</a></li>
+            <li><a href="/" class="h5 bold mb1 block black">18F@gsa.gov</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col col-12 md-col-4 px2 mt2 md-mt0">
+      <h4 class="mt0">Newsletter</h4>
+      <p>Receive updates about our work and news from the civic tech community</p>
+      <form>
+        <label>Your email</label>
+        <input type="text" class="block col-12 mb1 field">
+        <button type="submit" class="btn btn-primary bg-navy">Sign up</button>
+      </form>
+    </div>
+  </div>
+</footer>
