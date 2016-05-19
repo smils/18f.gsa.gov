@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
 end
 
+gem 'ruby-oembed'
 gem 'jemoji'
 group :development do
   gem 'pry'
