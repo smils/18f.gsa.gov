@@ -18,7 +18,6 @@
 ##
 require 'oembed'
 require 'uri'
-require 'openssl'
 
 # register all default OEmbed providers
 ::OEmbed::Providers.register_all()

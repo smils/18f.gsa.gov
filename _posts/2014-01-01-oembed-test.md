@@ -11,8 +11,8 @@ tags:
 - oembed
 ---
 
-<h1>An embedded video</h1>
-{{ oembed http://www.youtube.com/watch?v=Sv5iEK-IEzw }}
+<h1>An embedded YouTube video</h1>
+{{ oembed https://www.youtube.com/watch?v=RCVdgFin8uQ }}
 
-<h1>An embedded presentation</h1>
-{{ oembed http://www.slideshare.net/AmitRanjan/quick-tour }}
+<h1>An embedded Instagram</h1>
+{{ oembed https://www.instagram.com/p/BFl9WQthQVN/ }}
